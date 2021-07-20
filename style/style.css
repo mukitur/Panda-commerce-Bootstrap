@@ -12,3 +12,12 @@
     padding: 9px 25px;
 
 }
+.panda_category_bg-warning{
+    background-color: #ffa500;
+}
+.panda-category-bg-success{
+    background-color: #da70d6;
+}
+.panda-category-bg-primary{
+    background-color: #0000ff;
+}
